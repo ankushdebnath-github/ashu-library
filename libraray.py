@@ -7,6 +7,7 @@ import mysql.connector
 mydb=mysql.connector.connect(host='localhost',
                             user='root',passwd='ankush@121',
                              database='library');
+#suiiiiiii
 
 def createTable():
     mydb = mysql.connector.connect(host='localhost', user='root', passwd='ankush@121', database='library')
